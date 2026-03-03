@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\OrientacaoObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EB5A56-EF05-4715-8A1E-F6620456EF3A}|Agregacao_Associacao\\Agregacao_Associacao.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\orientacaoobjetos\\agregacao_associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EB5A56-EF05-4715-8A1E-F6620456EF3A}|Agregacao_Associacao\\Agregacao_Associacao.csproj|solutionrelative:agregacao_associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860D3FC7-6E4F-49ED-C90B-40EB14CE8C25}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\orientacaoobjetos\\orientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860D3FC7-6E4F-49ED-C90B-40EB14CE8C25}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\OrientacaoObjetos\\Agregacao_Associacao\\Program.cs",
+              "RelativeDocumentMoniker": "Agregacao_Associacao\\Program.cs",
+              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\OrientacaoObjetos\\Agregacao_Associacao\\Program.cs",
+              "RelativeToolTip": "Agregacao_Associacao\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvygAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:07:48.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\OrientacaoObjetos\\OrientacaoObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjetos\\Program.cs",
+              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\OrientacaoObjetos\\OrientacaoObjetos\\Program.cs",
+              "RelativeToolTip": "OrientacaoObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:11:31.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

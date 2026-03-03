@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll

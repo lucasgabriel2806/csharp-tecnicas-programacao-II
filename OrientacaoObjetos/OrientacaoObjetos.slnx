@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Agregacao_Associacao/Agregacao_Associacao.csproj" Id="d0eb5a56-ef05-4715-8a1e-f6620456ef3a" />
+  <Project Path="Heranca/Heranca.csproj" />
+  <Project Path="OrientacaoObjetos/OrientacaoObjetos.csproj" />
+</Solution>

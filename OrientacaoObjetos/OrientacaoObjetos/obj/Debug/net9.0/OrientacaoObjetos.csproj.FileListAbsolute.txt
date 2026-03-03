@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net9.0\OrientacaoObjetos.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net9.0\OrientacaoObjetos.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net9.0\OrientacaoObjetos.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net9.0\OrientacaoObjetos.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net9.0\OrientacaoObjetos.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\refint\OrientacaoObjetos.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\OrientacaoObjetos.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net9.0\ref\OrientacaoObjetos.dll

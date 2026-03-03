@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\bin\Debug\net9.0\Array.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\bin\Debug\net9.0\Array.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\bin\Debug\net9.0\Array.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\bin\Debug\net9.0\Array.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\refint\Array.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Colecoes\Array\obj\Debug\net9.0\ref\Array.dll

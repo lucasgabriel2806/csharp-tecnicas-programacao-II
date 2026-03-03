@@ -1,0 +1,5 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\Agregacao_Associacao\obj\Debug\net9.0\Agregacao_Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\Agregacao_Associacao\obj\Debug\net9.0\Agregacao_Associacao.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\Agregacao_Associacao\obj\Debug\net9.0\Agregacao_Associacao.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\Agregacao_Associacao\obj\Debug\net9.0\Agregacao_Associacao.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\OrientacaoObjetos\Agregacao_Associacao\obj\Debug\net9.0\Agregacao_Associacao.sourcelink.json
