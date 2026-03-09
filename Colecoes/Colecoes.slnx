@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="AgregacaoAssociacao/AgregacaoAssociacao.csproj" />
   <Project Path="Array/Array.csproj" />
   <Project Path="ArrayList/ArrayList.csproj" />
+  <Project Path="Composicao/Composicao.csproj" Id="618714d3-39c3-41b6-9657-afd21e2f9188" />
   <Project Path="List/List.csproj" />
 </Solution>

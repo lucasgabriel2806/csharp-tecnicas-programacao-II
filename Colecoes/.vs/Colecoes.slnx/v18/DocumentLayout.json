@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Colecoes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618714D3-39C3-41B6-9657-AFD21E2F9188}|Composicao\\Composicao.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\colecoes\\composicao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618714D3-39C3-41B6-9657-AFD21E2F9188}|Composicao\\Composicao.csproj|solutionrelative:composicao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Colecoes\\Composicao\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Composicao\\Pessoa.cs",
+              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Colecoes\\Composicao\\Pessoa.cs",
+              "RelativeToolTip": "Composicao\\Pessoa.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:53:26.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

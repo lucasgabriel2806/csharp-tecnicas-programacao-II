@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Associacao_Agregacao/Associacao_Agregacao.csproj" />
+  <Project Path="Composicao/Composicao.csproj" />
+</Solution>
