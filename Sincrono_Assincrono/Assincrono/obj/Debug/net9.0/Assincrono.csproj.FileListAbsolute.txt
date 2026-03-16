@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.exe
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.deps.json
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.runtimeconfig.json
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.dll
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.pdb
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfo.cs
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.sourcelink.json
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.dll
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\refint\Assincrono.dll
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.pdb
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.genruntimeconfig.cache
+C:\fatec\aulas-cursos\aulasDW3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\ref\Assincrono.dll

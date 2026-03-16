@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8232215-BEB8-4569-B15E-B355AED36DD5}|Interface\\Interface.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8232215-BEB8-4569-B15E-B355AED36DD5}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B827C55-E88B-47F5-B865-E266D4DC84E9}|IEnumerable\\IEnumerable.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\interface\\ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B827C55-E88B-47F5-B865-E266D4DC84E9}|IEnumerable\\IEnumerable.csproj|solutionrelative:ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C82479E-AE6C-4257-A5DF-90D298FEA2D1}|ICollection\\ICollection.csproj|c:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-ii\\interface\\icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C82479E-AE6C-4257-A5DF-90D298FEA2D1}|ICollection\\ICollection.csproj|solutionrelative:icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\ICollection\\Program.cs",
+              "RelativeDocumentMoniker": "ICollection\\Program.cs",
+              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\ICollection\\Program.cs",
+              "RelativeToolTip": "ICollection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:14:36.09Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\Interface\\Program.cs",
-              "RelativeDocumentMoniker": "Interface\\Program.cs",
-              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\Interface\\Program.cs",
-              "RelativeToolTip": "Interface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerable\\Program.cs",
+              "ToolTip": "C:\\fatec\\aulas-cursos\\csharp-tecnicas-programacao-II\\Interface\\IEnumerable\\Program.cs",
+              "RelativeToolTip": "IEnumerable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:47:59.35Z",
+              "WhenOpened": "2026-03-16T11:05:06.527Z",
               "EditorCaption": ""
             }
           ]

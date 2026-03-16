@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Assincrono/Assincrono.csproj" Id="6f3e8914-a403-4cb5-bd32-b9353ce78263" />
+  <Project Path="Sincrono/Sincrono.csproj" />
+</Solution>

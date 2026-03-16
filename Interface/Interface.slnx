@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="ICollection/ICollection.csproj" Id="0c82479e-ae6c-4257-a5df-90d298fea2d1" />
+  <Project Path="IEnumerable/IEnumerable.csproj" Id="9b827c55-e88b-47f5-b865-e266d4dc84e9" />
   <Project Path="Interface/Interface.csproj" />
 </Solution>
