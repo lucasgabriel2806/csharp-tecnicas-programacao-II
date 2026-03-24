@@ -1,0 +1,5 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Exercicio\Correcao001\obj\Debug\net9.0\Correcao001.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Exercicio\Correcao001\obj\Debug\net9.0\Correcao001.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Exercicio\Correcao001\obj\Debug\net9.0\Correcao001.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Exercicio\Correcao001\obj\Debug\net9.0\Correcao001.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\Exercicio\Correcao001\obj\Debug\net9.0\Correcao001.sourcelink.json
