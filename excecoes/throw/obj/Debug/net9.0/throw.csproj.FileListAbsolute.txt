@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\bin\Debug\net9.0\throw.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\bin\Debug\net9.0\throw.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\bin\Debug\net9.0\throw.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\bin\Debug\net9.0\throw.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\bin\Debug\net9.0\throw.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\refint\throw.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\throw.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\throw\obj\Debug\net9.0\ref\throw.dll

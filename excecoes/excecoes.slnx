@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Personalizada/Personalizada.csproj" Id="31240719-324a-4ec4-bd0e-ba054cf26bb0" />
+  <Project Path="throw/throw.csproj" />
+  <Project Path="try_catch_finally/try_catch_finally.csproj" />
+</Solution>

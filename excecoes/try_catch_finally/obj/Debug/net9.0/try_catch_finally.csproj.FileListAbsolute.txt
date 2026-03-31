@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\bin\Debug\net9.0\try_catch_finally.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\bin\Debug\net9.0\try_catch_finally.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\bin\Debug\net9.0\try_catch_finally.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\bin\Debug\net9.0\try_catch_finally.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\bin\Debug\net9.0\try_catch_finally.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\refint\try_catch_finally.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\try_catch_finally.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\excecoes\try_catch_finally\obj\Debug\net9.0\ref\try_catch_finally.dll
