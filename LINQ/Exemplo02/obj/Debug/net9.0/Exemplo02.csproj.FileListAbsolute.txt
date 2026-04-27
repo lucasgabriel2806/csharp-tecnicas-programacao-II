@@ -1,0 +1,15 @@
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\bin\Debug\net9.0\Exemplo02.exe
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\bin\Debug\net9.0\Exemplo02.deps.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\bin\Debug\net9.0\Exemplo02.runtimeconfig.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\bin\Debug\net9.0\Exemplo02.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\bin\Debug\net9.0\Exemplo02.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.AssemblyInfoInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.AssemblyInfo.cs
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.csproj.CoreCompileInputs.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.sourcelink.json
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\refint\Exemplo02.dll
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.pdb
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\Exemplo02.genruntimeconfig.cache
+C:\fatec\aulas-cursos\csharp-tecnicas-programacao-II\LINQ\Exemplo02\obj\Debug\net9.0\ref\Exemplo02.dll

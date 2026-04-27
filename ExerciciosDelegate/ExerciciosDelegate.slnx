@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AlarmeTemperatura/AlarmeTemperatura.csproj" />
+  <Project Path="ContaemCliques/ContaemCliques.csproj" Id="8c35eae1-012d-479f-8a0a-f931f4beadb1" />
+  <Project Path="Estoque/Estoque.csproj" />
+  <Project Path="OperacoesAritmeticas/OperacoesAritmeticas.csproj" />
+</Solution>
